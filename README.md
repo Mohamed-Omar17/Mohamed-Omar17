@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a third year Software Engineering Student at Ontario Tech University, passionate about web and game development.
+I am a third year Software Engineering Student at Ontario Tech University, passionate about both full-stack web development, and game design.
 
 
 ## 💻 What I'm Working On:
