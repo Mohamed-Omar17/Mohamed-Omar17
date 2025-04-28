@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a third year Software Engineering Student at Ontario Tech University, passionate about both full-stack web development, and game design.
+I’m a third-year Software Engineering student at Ontario Tech University, passionate about full-stack web development and game design. I have hands-on DevOps experience from a two-week placement where I led a 16-person team, managing CI/CD workflows and deployments as both Team Lead and DevOps Lead.
 
 
 ## 💻 What I'm Working On:
