@@ -2,7 +2,7 @@
 I am a third year Software Engineering Student at Ontario Tech University, passionate about web and game development.
 
 
-# 💫 What I'm Working On:
+## 💻 What I'm Working On:
 - Learning about the design of original FPS titles such as Doom and Wolfenstein
 - Completing my online Full Stack Web Development Course
 
